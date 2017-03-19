@@ -1,9 +1,6 @@
 import socket
 from collections import namedtuple
 
-#woodhouse.ics.uci.edu
-#4444
-
 ConnectionInfo = namedtuple('ConnectionInfo',
                             ['socket', 'i_stream', 'o_stream'])
 
