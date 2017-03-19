@@ -1,3 +1,4 @@
+#KB
 import protocol
 import common
 import connectfour
